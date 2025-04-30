@@ -25,5 +25,5 @@ You can install the requirements by running:
 pip install -r requirements.txt
 ---
 
-*Created by [Edris Flores](https://github.com/Z3phyrus76)**  
+**Created by [Edris Flores](https://github.com/Z3phyrus76)**  
 [LinkedIn](https://www.linkedin.com/in/edris-flores-56758522a/)
